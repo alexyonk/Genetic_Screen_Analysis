@@ -1,4 +1,4 @@
-#                   Genetic Screen Analysis v1.0
+#                   Genetic Screen Analysis v2.0
 #                   *Created by AY on 9/21/2021*
 #                   *Last Updated on 10/14/2021*
 #     *For any issues or bugs, please contact alex.yonk2@gmail.com*
